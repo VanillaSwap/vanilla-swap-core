@@ -1,0 +1,89 @@
+
+Compiling your contracts...
+===========================
+> Everything is up to date, there is nothing to compile.
+
+
+
+Starting migrations...
+======================
+> Network name:    'development'
+> Network id:      1337
+> Block gas limit: 6721975 (0x6691b7)
+
+
+1_initial_migration.js
+======================
+
+   Deploying 'Migrations'
+   ----------------------
+   > transaction hash:    0xc2a334d509934971e761303463e42feea28c537a4e9fe4e9d99c863a59fcc492
+   > Blocks: 0            Seconds: 0
+   > contract address:    0xc3ABB06A694Cd3843b73204baA48eE267be438E9
+   > block number:        29657
+   > block timestamp:     1663853400
+   > account:             0x90F8bf6A479f320ead074411a4B0e7944Ea8c9C1
+   > balance:             38.75946812
+   > gas used:            191943 (0x2edc7)
+   > gas price:           20 gwei
+   > value sent:          0 ETH
+   > total cost:          0.00383886 ETH
+
+
+   Deploying 'PancakeERC20'
+   ------------------------
+   > transaction hash:    0x538e835ad611be03ecff9c7c4b0bdc573cf75d75ed36686979012324d73d36a6
+   > Blocks: 0            Seconds: 0
+   > contract address:    0x7186de1642305b4b66f709a814415AA1657eCbc2
+   > block number:        29658
+   > block timestamp:     1663853403
+   > account:             0x90F8bf6A479f320ead074411a4B0e7944Ea8c9C1
+   > balance:             38.74093754
+   > gas used:            926529 (0xe2341)
+   > gas price:           20 gwei
+   > value sent:          0 ETH
+   > total cost:          0.01853058 ETH
+
+
+   Deploying 'PancakeFactory'
+   --------------------------
+   > transaction hash:    0xd15a23cacbfe97402bb57ec00f0ab48ab9f4fdc72354a5724bf8e9efdef7ba33
+   > Blocks: 0            Seconds: 0
+   > contract address:    0x0CD6EaaA9E01981b2276cfbA233a4C8d405cBD6C
+   > block number:        29659
+   > block timestamp:     1663853407
+   > account:             0x90F8bf6A479f320ead074411a4B0e7944Ea8c9C1
+   > balance:             38.65740874
+   > gas used:            4176440 (0x3fba38)
+   > gas price:           20 gwei
+   > value sent:          0 ETH
+   > total cost:          0.0835288 ETH
+
+
+   Deploying 'PancakePair'
+   -----------------------
+   > transaction hash:    0x66dd8a43a5749c6d74ca7215cef9938cf86980bb8e7dd4dd6035fd9a5fa011b6
+   > Blocks: 0            Seconds: 0
+   > contract address:    0xB1948CF5377f969f41194A208b3b9d9Eb1040C31
+   > block number:        29660
+   > block timestamp:     1663853410
+   > account:             0x90F8bf6A479f320ead074411a4B0e7944Ea8c9C1
+   > balance:             38.59065862
+   > gas used:            3337506 (0x32ed22)
+   > gas price:           20 gwei
+   > value sent:          0 ETH
+   > total cost:          0.06675012 ETH
+
+
+   > Saving migration to chain.
+   > Saving artifacts
+   -------------------------------------
+   > Total cost:          0.17264836 ETH
+
+
+Summary
+=======
+> Total deployments:   4
+> Final cost:          0.17264836 ETH
+
+
